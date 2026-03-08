@@ -7,7 +7,6 @@ I am an ICT engineer currently pursuing a Master's degree in ICT at Wrocław Uni
 - C++ and Python
 - OOP
 - SQL, relational databases
-- Networking and 5G
 
 ## I'm currently learning 
 Currently I am working on my modern C++ skills.
