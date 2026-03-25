@@ -9,7 +9,7 @@ I am an ICT engineer currently pursuing a Master's degree in ICT at Wrocław Uni
 - SQL, relational databases
 
 ## I'm currently learning 
-Currently I am working on my modern C++ skills.
+Currently I am refining my modern C++ skills.
 
 ## I'm currently working on
 Currently I am working on university projects
